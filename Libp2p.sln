@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libp2p", "Libp2p\Libp2p.csproj", "{ECF86ECE-1821-4B4A-8CAD-090856317809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libp2p.Tests", "Libp2p.Tests\Libp2p.Tests.csproj", "{8055D3AE-E6ED-411A-ACEE-FEE5E30A93FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF86ECE-1821-4B4A-8CAD-090856317809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF86ECE-1821-4B4A-8CAD-090856317809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF86ECE-1821-4B4A-8CAD-090856317809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF86ECE-1821-4B4A-8CAD-090856317809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8055D3AE-E6ED-411A-ACEE-FEE5E30A93FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8055D3AE-E6ED-411A-ACEE-FEE5E30A93FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8055D3AE-E6ED-411A-ACEE-FEE5E30A93FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8055D3AE-E6ED-411A-ACEE-FEE5E30A93FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5031A6B-1825-4BF6-BE32-2788C1EEFAC1}
+	EndGlobalSection
+EndGlobal
